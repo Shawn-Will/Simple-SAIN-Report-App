@@ -28,20 +28,6 @@ Incudes
         -Executable .Jar file of the project
 
 
-Not included
-        -JUnit Testing
-                *I was not able to figure out what to test in this project 
-
-
-Nonworking Parts:
-        -Updatable SAIN report for the Admin
-        -Viewable SAIN report by the Admin
-                *There is a popup menu that will display the student's information
-        
-
-
-
-
 Known Bugs:
         -Needing to close the program before being able to login as a new user
         -Only first student is read in from the Binary file
@@ -49,14 +35,3 @@ Known Bugs:
 
 
 
-
-
-
-GitHub link:
-https://github.com/ShawnWill/SAIN-Final-Project-SP16-CST242/tree/FINAL
-
-
-**The github includes all the classes, UML diagrams, Executable .Jar file and the initial login credentials 
-
-
-**The JavaDoc Web Pages is included within the .zip file.
